@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JulianC06/appi1/issues"
   },
-  "homepage": "https://github.com/JulianC06/appi1#readme"
+  "homepage": "https://github.com/JulianC06/appi1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
